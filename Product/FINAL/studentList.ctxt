@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=studentList
+comment1.params=X
+comment1.target=void\ add(student)
+comment2.params=
+comment2.target=java.util.ArrayList\ getList()
+comment3.params=
+comment3.target=boolean\ empty()
+comment4.params=commonTime
+comment4.target=void\ setTheArray(int[][])
+comment5.params=
+comment5.target=int[][]\ getCommonTime()
+comment6.params=answer
+comment6.target=void\ findStudent(java.lang.String)
+comment7.params=
+comment7.target=void\ printStudents()
+comment8.params=
+comment8.target=counting()
+comment9.params=x\ y
+comment9.target=int\ checkPair(int,\ int)
+numComments=10
